@@ -1,3 +1,3 @@
 # Pomodoro Application
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[https://pomodoro-skrz.netlify.app/](https://pomodoro-skrz.netlify.app/)
