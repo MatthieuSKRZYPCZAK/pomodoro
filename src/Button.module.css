@@ -1,0 +1,21 @@
+
+.clock-btn {
+    padding: .6rem 1.8rem;
+    font-size: 1.8rem;
+    border-radius: 20px;
+    color: beige;
+    border: none;
+
+}
+
+.clock-btn-start {
+    background-color: rgb(112, 112, 235);
+}
+
+.clock-btn-stop {
+    background-color: rgb(112, 112, 235);
+}
+
+.clock-btn:hover {
+    cursor: pointer;
+}
